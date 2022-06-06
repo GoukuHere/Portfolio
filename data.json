@@ -1,11 +1,40 @@
 {
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
-  "movies": [
-    { "id": "1", "title": "Usama", "releaseYear": "2000" },
-    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
-    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
-    { "id": "4", "title": "Inception", "releaseYear": "2010" },
-    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
-  ]
+	"name": "Muhammad Usama",
+	"image": "https://github.com/GoukuHere/Portfolio/edit/main/c1.png",
+	"description": "Exploring the art of technology.",
+	"skills": [{
+			"skill": "Animation",
+			"experience": "3"
+		},
+		{
+			"skill": "Video Editing",
+			"experience": "4"
+		},
+		{
+			"skill": "Graphic Designing",
+			"experience": "2"
+		},
+		{
+			"skill": "MERN",
+			"experience": "0.5"
+		},
+		{
+			"skill": "React Native",
+			"experience": "1"
+		}
+	],
+	"hobbies": ["Cricket", "Cartoon Animations", "Cricket", "Beat-Boxing"],
+	"projects": [{
+			"name": "Cartoon Animation",
+			"Description": "2 minutes cartoon animation mostly made in moho pro"
+		},
+		{
+			"name": "Pakistan Railway",
+			"link": "A complete package of html+css+js+jquery+bootstrap"
+		},
+		{
+			"name": "Student Management System",
+			"link": "A complete OOP based project"
+		}
+	]
 }
